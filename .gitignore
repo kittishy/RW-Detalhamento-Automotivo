@@ -1,0 +1,4 @@
+.graphify/
+graphify-out/
+.impeccable/cache/
+__pycache__/
